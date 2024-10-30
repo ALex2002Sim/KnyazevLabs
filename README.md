@@ -3,8 +3,8 @@
 
 ### [Технологии программирования](https://github.com/ALex2002Sim/KnyazevLabs/tree/main/Tech)
 
-### [Математическое обеспечение ЭВМ]()
+### [Математическое обеспечение ЭВМ](https://github.com/ALex2002Sim/KnyazevLabs/tree/main/EVM)
 
 ### [Операционные системы]()
 
-### [Сетевые технологии]()
+### [Сетевые технологии](https://github.com/ALex2002Sim/KnyazevLabs/tree/main/SETI)
